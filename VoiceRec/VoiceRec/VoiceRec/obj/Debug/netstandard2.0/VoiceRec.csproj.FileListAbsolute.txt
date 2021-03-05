@@ -1,0 +1,14 @@
+C:\Users\Utilizador\OneDrive\Documentos\Github\Voice-Recognition\VoiceRec\VoiceRec\VoiceRec\bin\Debug\netstandard2.0\VoiceRec.deps.json
+C:\Users\Utilizador\OneDrive\Documentos\Github\Voice-Recognition\VoiceRec\VoiceRec\VoiceRec\bin\Debug\netstandard2.0\VoiceRec.dll
+C:\Users\Utilizador\OneDrive\Documentos\Github\Voice-Recognition\VoiceRec\VoiceRec\VoiceRec\bin\Debug\netstandard2.0\ref\VoiceRec.dll
+C:\Users\Utilizador\OneDrive\Documentos\Github\Voice-Recognition\VoiceRec\VoiceRec\VoiceRec\bin\Debug\netstandard2.0\VoiceRec.pdb
+C:\Users\Utilizador\OneDrive\Documentos\Github\Voice-Recognition\VoiceRec\VoiceRec\VoiceRec\obj\Debug\netstandard2.0\VoiceRec.csprojAssemblyReference.cache
+C:\Users\Utilizador\OneDrive\Documentos\Github\Voice-Recognition\VoiceRec\VoiceRec\VoiceRec\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Utilizador\OneDrive\Documentos\Github\Voice-Recognition\VoiceRec\VoiceRec\VoiceRec\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Utilizador\OneDrive\Documentos\Github\Voice-Recognition\VoiceRec\VoiceRec\VoiceRec\obj\Debug\netstandard2.0\VoiceRec.AssemblyInfoInputs.cache
+C:\Users\Utilizador\OneDrive\Documentos\Github\Voice-Recognition\VoiceRec\VoiceRec\VoiceRec\obj\Debug\netstandard2.0\VoiceRec.AssemblyInfo.cs
+C:\Users\Utilizador\OneDrive\Documentos\Github\Voice-Recognition\VoiceRec\VoiceRec\VoiceRec\obj\Debug\netstandard2.0\VoiceRec.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\OneDrive\Documentos\Github\Voice-Recognition\VoiceRec\VoiceRec\VoiceRec\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Utilizador\OneDrive\Documentos\Github\Voice-Recognition\VoiceRec\VoiceRec\VoiceRec\obj\Debug\netstandard2.0\VoiceRec.dll
+C:\Users\Utilizador\OneDrive\Documentos\Github\Voice-Recognition\VoiceRec\VoiceRec\VoiceRec\obj\Debug\netstandard2.0\ref\VoiceRec.dll
+C:\Users\Utilizador\OneDrive\Documentos\Github\Voice-Recognition\VoiceRec\VoiceRec\VoiceRec\obj\Debug\netstandard2.0\VoiceRec.pdb
