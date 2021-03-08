@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ZDHT9MFs4Xbpk6orl4y8NM3pASSQ0YYpiNc940qCPXIJgdCvNTIyC/twdhZsTvjYS11xF30mMGGQ146zC6SsJg==",
+  "dgSpecHash": "n9gvqJYdPPEYuQw2libnggbxKrkBXXM4JVo59hmPZ9bhle0dWDvDbctg0viegwamJ1IXJdFlU1t7fSz0Qo140Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\Utilizador\\OneDrive\\Documentos\\Github\\Voice-Recognition\\VoiceRec\\VoiceRec\\VoiceRec.iOS\\VoiceRec.iOS.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Utilizador\\.nuget\\packages\\system.speech\\5.0.0\\system.speech.5.0.0.nupkg.sha512",
     "C:\\Users\\Utilizador\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
     "C:\\Users\\Utilizador\\.nuget\\packages\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
   ],

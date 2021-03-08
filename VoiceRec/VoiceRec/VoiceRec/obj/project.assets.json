@@ -35,6 +35,15 @@
           "lib/netstandard2.0/System.Numerics.Vectors.dll": {}
         }
       },
+      "System.Speech/5.0.0": {
+        "type": "package",
+        "compile": {
+          "ref/netstandard2.0/System.Speech.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Speech.dll": {}
+        }
+      },
       "Xamarin.Essentials/1.5.3.2": {
         "type": "package",
         "dependencies": {
@@ -254,6 +263,30 @@
         "ref/xamarinwatchos10/_._",
         "system.numerics.vectors.4.5.0.nupkg.sha512",
         "system.numerics.vectors.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "System.Speech/5.0.0": {
+      "sha512": "URJOtiuS47+aK4u8uBGgky4XuiUzoiTFB7VGyaayD4iQDC/mE0aoPIB0m73lGzt0xYc/ZnMC6ltGb49t76wXJA==",
+      "type": "package",
+      "path": "system.speech/5.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "build/netcoreapp2.0/System.Speech.targets",
+        "lib/net45/_._",
+        "lib/netstandard2.0/System.Speech.dll",
+        "lib/netstandard2.0/System.Speech.xml",
+        "ref/net45/_._",
+        "ref/netstandard2.0/System.Speech.dll",
+        "runtimes/win/lib/netcoreapp2.1/System.Speech.dll",
+        "runtimes/win/lib/netcoreapp2.1/System.Speech.xml",
+        "system.speech.5.0.0.nupkg.sha512",
+        "system.speech.nuspec",
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
@@ -626,6 +659,7 @@
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
       "NETStandard.Library >= 2.0.3",
+      "System.Speech >= 5.0.0",
       "Xamarin.Essentials >= 1.5.3.2",
       "Xamarin.Forms >= 4.8.0.1451"
     ]
@@ -679,6 +713,10 @@
             "target": "Package",
             "version": "[2.0.3, )",
             "autoReferenced": true
+          },
+          "System.Speech": {
+            "target": "Package",
+            "version": "[5.0.0, )"
           },
           "Xamarin.Essentials": {
             "target": "Package",

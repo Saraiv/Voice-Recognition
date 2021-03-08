@@ -2,6 +2,15 @@
   "version": 3,
   "targets": {
     "Xamarin.iOS,Version=v1.0": {
+      "System.Speech/5.0.0": {
+        "type": "package",
+        "compile": {
+          "ref/netstandard2.0/System.Speech.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Speech.dll": {}
+        }
+      },
       "Xamarin.Essentials/1.5.3.2": {
         "type": "package",
         "frameworkAssemblies": [
@@ -140,6 +149,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "System.Speech": "5.0.0",
           "Xamarin.Essentials": "1.5.3.2",
           "Xamarin.Forms": "4.8.0.1451"
         },
@@ -152,6 +162,15 @@
       }
     },
     "Xamarin.iOS,Version=v1.0/win": {
+      "System.Speech/5.0.0": {
+        "type": "package",
+        "compile": {
+          "ref/netstandard2.0/System.Speech.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Speech.dll": {}
+        }
+      },
       "Xamarin.Essentials/1.5.3.2": {
         "type": "package",
         "frameworkAssemblies": [
@@ -290,6 +309,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "System.Speech": "5.0.0",
           "Xamarin.Essentials": "1.5.3.2",
           "Xamarin.Forms": "4.8.0.1451"
         },
@@ -302,6 +322,15 @@
       }
     },
     "Xamarin.iOS,Version=v1.0/win-x64": {
+      "System.Speech/5.0.0": {
+        "type": "package",
+        "compile": {
+          "ref/netstandard2.0/System.Speech.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Speech.dll": {}
+        }
+      },
       "Xamarin.Essentials/1.5.3.2": {
         "type": "package",
         "frameworkAssemblies": [
@@ -440,6 +469,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "System.Speech": "5.0.0",
           "Xamarin.Essentials": "1.5.3.2",
           "Xamarin.Forms": "4.8.0.1451"
         },
@@ -452,6 +482,15 @@
       }
     },
     "Xamarin.iOS,Version=v1.0/win-x86": {
+      "System.Speech/5.0.0": {
+        "type": "package",
+        "compile": {
+          "ref/netstandard2.0/System.Speech.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Speech.dll": {}
+        }
+      },
       "Xamarin.Essentials/1.5.3.2": {
         "type": "package",
         "frameworkAssemblies": [
@@ -590,6 +629,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "System.Speech": "5.0.0",
           "Xamarin.Essentials": "1.5.3.2",
           "Xamarin.Forms": "4.8.0.1451"
         },
@@ -603,6 +643,30 @@
     }
   },
   "libraries": {
+    "System.Speech/5.0.0": {
+      "sha512": "URJOtiuS47+aK4u8uBGgky4XuiUzoiTFB7VGyaayD4iQDC/mE0aoPIB0m73lGzt0xYc/ZnMC6ltGb49t76wXJA==",
+      "type": "package",
+      "path": "system.speech/5.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "build/netcoreapp2.0/System.Speech.targets",
+        "lib/net45/_._",
+        "lib/netstandard2.0/System.Speech.dll",
+        "lib/netstandard2.0/System.Speech.xml",
+        "ref/net45/_._",
+        "ref/netstandard2.0/System.Speech.dll",
+        "runtimes/win/lib/netcoreapp2.1/System.Speech.dll",
+        "runtimes/win/lib/netcoreapp2.1/System.Speech.xml",
+        "system.speech.5.0.0.nupkg.sha512",
+        "system.speech.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
     "Xamarin.Essentials/1.5.3.2": {
       "sha512": "BSLgDJUOPFRwTpQaftM+s4qb/MsTjrqXulEYDOcK6KF3i0Orf75zo3RwRfqnQ8WfpoEFxW/v0jgcPWCvOMgHxg==",
       "type": "package",
